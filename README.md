@@ -34,8 +34,6 @@ Visitante, Usuário Comum, Administrador, Professor.
 
   Cadastro e Criação de Conta
 
-  Reserva de Recursos Físicos
-
   Downloads de Materiais Digitais (PDF)
 
   Avaliações e Comentários
